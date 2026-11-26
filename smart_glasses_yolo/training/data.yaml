@@ -1,0 +1,25 @@
+path: C:\Users\remed\Desktop\FYP\smart_glasses_yolo\datasets\indoor_unified
+train: images/train
+val: images/val
+names:
+  0: bed
+  1: sofa
+  2: chair
+  3: table
+  4: lamp
+  5: tv
+  6: laptop
+  7: wardrobe
+  8: window
+  9: door
+  10: potted plant
+  11: photo frame
+  12: person
+  13: currency_10
+  14: currency_20
+  15: currency_50
+  16: currency_100
+  17: currency_200
+  18: currency_500
+  19: currency_2000
+nc: 20

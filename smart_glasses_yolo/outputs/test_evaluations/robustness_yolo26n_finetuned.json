@@ -1,0 +1,392 @@
+{
+  "summary": {
+    "normal": {
+      "total_detections": 28,
+      "mean_confidence": 0.5
+    },
+    "low_light": {
+      "total_detections": 20,
+      "mean_confidence": 0.427
+    },
+    "bright_glare": {
+      "total_detections": 23,
+      "mean_confidence": 0.488
+    },
+    "partial_occlusion": {
+      "total_detections": 17,
+      "mean_confidence": 0.51
+    }
+  },
+  "details": {
+    "normal": [
+      {
+        "image": "coco_person_000000000531.jpg",
+        "detection_count": 5,
+        "classes": [
+          "person",
+          "person",
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.503
+      },
+      {
+        "image": "coco_person_000000000532.jpg",
+        "detection_count": 2,
+        "classes": [
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.529
+      },
+      {
+        "image": "coco_person_000000000536.jpg",
+        "detection_count": 1,
+        "classes": [
+          "lamp"
+        ],
+        "mean_confidence": 0.422
+      },
+      {
+        "image": "coco_person_000000000542.jpg",
+        "detection_count": 6,
+        "classes": [
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.386
+      },
+      {
+        "image": "coco_person_000000000544.jpg",
+        "detection_count": 8,
+        "classes": [
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.607
+      },
+      {
+        "image": "coco_person_000000000564.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.359
+      },
+      {
+        "image": "coco_person_000000000569.jpg",
+        "detection_count": 2,
+        "classes": [
+          "potted plant",
+          "person"
+        ],
+        "mean_confidence": 0.528
+      },
+      {
+        "image": "coco_person_000000000572.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.453
+      },
+      {
+        "image": "coco_person_000000000589.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.735
+      },
+      {
+        "image": "coco_person_000000000623.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.48
+      }
+    ],
+    "low_light": [
+      {
+        "image": "coco_person_000000000531.jpg",
+        "detection_count": 3,
+        "classes": [
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.35
+      },
+      {
+        "image": "coco_person_000000000532.jpg",
+        "detection_count": 2,
+        "classes": [
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.477
+      },
+      {
+        "image": "coco_person_000000000536.jpg",
+        "detection_count": 2,
+        "classes": [
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.347
+      },
+      {
+        "image": "coco_person_000000000542.jpg",
+        "detection_count": 3,
+        "classes": [
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.36
+      },
+      {
+        "image": "coco_person_000000000544.jpg",
+        "detection_count": 8,
+        "classes": [
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.564
+      },
+      {
+        "image": "coco_person_000000000564.jpg",
+        "detection_count": 0,
+        "classes": [],
+        "mean_confidence": 0.0
+      },
+      {
+        "image": "coco_person_000000000569.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.439
+      },
+      {
+        "image": "coco_person_000000000572.jpg",
+        "detection_count": 0,
+        "classes": [],
+        "mean_confidence": 0.0
+      },
+      {
+        "image": "coco_person_000000000589.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.453
+      },
+      {
+        "image": "coco_person_000000000623.jpg",
+        "detection_count": 0,
+        "classes": [],
+        "mean_confidence": 0.0
+      }
+    ],
+    "bright_glare": [
+      {
+        "image": "coco_person_000000000531.jpg",
+        "detection_count": 2,
+        "classes": [
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.523
+      },
+      {
+        "image": "coco_person_000000000532.jpg",
+        "detection_count": 2,
+        "classes": [
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.543
+      },
+      {
+        "image": "coco_person_000000000536.jpg",
+        "detection_count": 0,
+        "classes": [],
+        "mean_confidence": 0.0
+      },
+      {
+        "image": "coco_person_000000000542.jpg",
+        "detection_count": 6,
+        "classes": [
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.402
+      },
+      {
+        "image": "coco_person_000000000544.jpg",
+        "detection_count": 8,
+        "classes": [
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.578
+      },
+      {
+        "image": "coco_person_000000000564.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.315
+      },
+      {
+        "image": "coco_person_000000000569.jpg",
+        "detection_count": 1,
+        "classes": [
+          "potted plant"
+        ],
+        "mean_confidence": 0.509
+      },
+      {
+        "image": "coco_person_000000000572.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.406
+      },
+      {
+        "image": "coco_person_000000000589.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.739
+      },
+      {
+        "image": "coco_person_000000000623.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.377
+      }
+    ],
+    "partial_occlusion": [
+      {
+        "image": "coco_person_000000000531.jpg",
+        "detection_count": 3,
+        "classes": [
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.423
+      },
+      {
+        "image": "coco_person_000000000532.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.581
+      },
+      {
+        "image": "coco_person_000000000536.jpg",
+        "detection_count": 2,
+        "classes": [
+          "tv",
+          "lamp"
+        ],
+        "mean_confidence": 0.46
+      },
+      {
+        "image": "coco_person_000000000542.jpg",
+        "detection_count": 2,
+        "classes": [
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.327
+      },
+      {
+        "image": "coco_person_000000000544.jpg",
+        "detection_count": 6,
+        "classes": [
+          "person",
+          "person",
+          "person",
+          "person",
+          "person",
+          "person"
+        ],
+        "mean_confidence": 0.602
+      },
+      {
+        "image": "coco_person_000000000564.jpg",
+        "detection_count": 0,
+        "classes": [],
+        "mean_confidence": 0.0
+      },
+      {
+        "image": "coco_person_000000000569.jpg",
+        "detection_count": 1,
+        "classes": [
+          "potted plant"
+        ],
+        "mean_confidence": 0.487
+      },
+      {
+        "image": "coco_person_000000000572.jpg",
+        "detection_count": 0,
+        "classes": [],
+        "mean_confidence": 0.0
+      },
+      {
+        "image": "coco_person_000000000589.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.764
+      },
+      {
+        "image": "coco_person_000000000623.jpg",
+        "detection_count": 1,
+        "classes": [
+          "person"
+        ],
+        "mean_confidence": 0.435
+      }
+    ]
+  }
+}

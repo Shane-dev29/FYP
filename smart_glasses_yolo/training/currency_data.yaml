@@ -1,0 +1,13 @@
+path: C:\Users\remed\Desktop\FYP\smart_glasses_yolo\datasets\indian_currency
+train: images/train
+val: images/val
+names:
+  0: currency_10
+  1: currency_20
+  2: currency_50
+  3: currency_100
+  4: currency_200
+  5: currency_500
+  6: currency_2000
+nc: 7
+

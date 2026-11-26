@@ -1,0 +1,39 @@
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datasets & raw archives (too large for GitHub)
+datasets/
+**/datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Cache directories
+.easyocr/
+.ultralytics/
+runs/
+**/runs/
+
+# Large model artifacts >50MB
+craft_mlt_25k.pth
+*.pth
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.log
